@@ -1,3 +1,4 @@
 Jangan baca aku !
 ---------------------------------------
-1. Jangan = Larangan
+1. Jangan = Perintah
+
