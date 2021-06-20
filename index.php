@@ -6,3 +6,4 @@ $data = [
 ];
 
 // That was the true way we have 
+$data['description'] .= ' and life was an exam';
